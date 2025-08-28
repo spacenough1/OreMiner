@@ -1,0 +1,5 @@
+name: OreMiner
+version: '1.0-SNAPSHOT'
+main: pl.spacenough.oreminer.OreMiner
+api-version: '1.21'
+authors: [ spacenough ]
