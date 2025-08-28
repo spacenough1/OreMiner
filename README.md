@@ -58,11 +58,6 @@ Customize which ores are affected by vein mining. Full control over your mining 
 **Download OreMiner today and experience mining like never before!** 🚀
 
 ## Showcase
-
-<video controls>
-<source src="https://i.imgur.com/mYPqOXv.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
+[Watch video](https://i.imgur.com/mYPqOXv.mp4)
 
 *Made with ❤️ for the Minecraft community*
