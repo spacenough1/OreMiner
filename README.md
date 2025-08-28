@@ -1,4 +1,4 @@
-# ⛏️ OreMiner - Revolutionize Your Mining Experience! ⛏️
+# ⛏️ OreMiner - Revolutionize Your Mining Experience!
 
 ## 🌟 Transform the way you mine ores with this powerful vein-mining plugin! 🌟
 
