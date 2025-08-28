@@ -1,0 +1,5 @@
+settings:
+  item-magnet: false # if 'true' automatically give player item to inventory (after mining item doesn't drop on the ground)
+  disabled-ores:
+    - DEEPSLATE_COPPER_ORE
+    - COPPER_ORE
